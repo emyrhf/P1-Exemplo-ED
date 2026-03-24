@@ -38,14 +38,12 @@ src/
 - view/
   - RoteadorView.java
 
-
 ---
 
 ## ▶️ Execução
 
 Basta rodar a classe:
-´RoteadorView.java´
-
+`RoteadorView.java`
 
 ---
 
