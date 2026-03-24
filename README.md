@@ -7,6 +7,12 @@ O sistema organiza protocolos por tipo e realiza a distribuição de saída de f
 
 ---
 
+## 📄 Enunciado da atividade
+
+[Visualizar PDF da atividade](docs/Prova-ED-P1.pdf)
+
+---
+
 ## 🧠 Conceito aplicado
 O projeto utiliza:
 
