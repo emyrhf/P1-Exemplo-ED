@@ -1,0 +1,14 @@
+# Arquivos compilados
+*.class
+
+# Pasta de build
+bin/
+build/
+out/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
