@@ -44,7 +44,7 @@ src/
 ## ▶️ Execução
 
 Basta rodar a classe:
-´´´RoteadorView.java´´´
+´RoteadorView.java´
 
 
 ---
