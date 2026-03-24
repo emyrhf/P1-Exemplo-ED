@@ -27,16 +27,16 @@ O projeto utiliza:
 
 ## 🧩 Estrutura do projeto
 src/
-├── controller/
-│ └── RoteadorController.java
-├── model/
-│ └── estrutura/
-│ ├── ListaCircularDupla.java
-│ ├── FilaFifo.java
-│ ├── No.java
-│ └── NoFifo.java
-└── view/
-└── RoteadorView.java
+- controller/
+  - RoteadorController.java
+- model/
+  - estrutura/
+    - ListaCircularDupla.java
+    - FilaFifo.java
+    - No.java
+    - NoFifo.java
+- view/
+  - RoteadorView.java
 
 
 ---
