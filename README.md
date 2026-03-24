@@ -65,5 +65,5 @@ Demonstrar na prática o uso de estruturas de dados encadeadas para resolver um 
 
 ## 👩‍💻 Autores
 
-- [Emily Rharysa](https://github.com/emyrhf)
+- [Emily Furtado](https://github.com/emyrhf)
 - [Vinícius Fernandes](https://github.com/vfs1210)
